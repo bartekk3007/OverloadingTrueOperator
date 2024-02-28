@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\OverloadingTrueOperator\obj\Debug\net8.0\OverloadingTrueOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\OverloadingTrueOperator\obj\Debug\net8.0\OverloadingTrueOperator.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\OverloadingTrueOperator\obj\Debug\net8.0\OverloadingTrueOperator.AssemblyInfo.cs
+C:\Users\48571\source\repos\OverloadingTrueOperator\obj\Debug\net8.0\OverloadingTrueOperator.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\OverloadingTrueOperator\bin\Debug\net8.0\OverloadingTrueOperator.exe
+C:\Users\48571\source\repos\OverloadingTrueOperator\bin\Debug\net8.0\OverloadingTrueOperator.deps.json
+C:\Users\48571\source\repos\OverloadingTrueOperator\bin\Debug\net8.0\OverloadingTrueOperator.runtimeconfig.json
+C:\Users\48571\source\repos\OverloadingTrueOperator\bin\Debug\net8.0\OverloadingTrueOperator.dll
+C:\Users\48571\source\repos\OverloadingTrueOperator\bin\Debug\net8.0\OverloadingTrueOperator.pdb
+C:\Users\48571\source\repos\OverloadingTrueOperator\obj\Debug\net8.0\OverloadingTrueOperator.dll
+C:\Users\48571\source\repos\OverloadingTrueOperator\obj\Debug\net8.0\refint\OverloadingTrueOperator.dll
+C:\Users\48571\source\repos\OverloadingTrueOperator\obj\Debug\net8.0\OverloadingTrueOperator.pdb
+C:\Users\48571\source\repos\OverloadingTrueOperator\obj\Debug\net8.0\OverloadingTrueOperator.genruntimeconfig.cache
+C:\Users\48571\source\repos\OverloadingTrueOperator\obj\Debug\net8.0\ref\OverloadingTrueOperator.dll
